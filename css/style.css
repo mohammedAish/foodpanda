@@ -21,6 +21,7 @@
     position: absolute;
     bottom: 0px;
     text-align: center;
+      right: 5%;
     
 }
    .firstimg .firstlogo img{
@@ -57,6 +58,7 @@
     position: absolute;
     bottom: 0px;
     text-align: center;
+      right: 5%;
     
 }
 .CLICK2{
@@ -76,13 +78,16 @@
     position: absolute;
     bottom: 0px;
     text-align: center;
+              right: 5%;
+
     
 }
     .second .secondd{
     position: absolute;
     bottom: 0px;
     text-align: center;
-    
+          right: 0%;
+
 }
     
 }
