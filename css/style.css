@@ -17,6 +17,9 @@
     opacity: 0.8;   
 }
 */
+p{
+    font-size:41px;
+}
 .firstimg .firstimgg{
     position: absolute;
     bottom: 0px;
